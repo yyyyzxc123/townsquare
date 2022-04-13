@@ -1,13 +1,13 @@
 [
   {
-    "id": "washerwoman",
-    "name": "Washerwoman",
+    "id": "Disciple of Shushan",
+    "name": "Disciple of Shushan"，
     "edition": "tb",
     "team": "townsfolk",
     "firstNight": 32,
-    "firstNightReminder": "Show the character token of a Townsfolk in play. Point to two players, one of which is that character.",
-    "otherNight": 0,
-    "otherNightReminder": "",
+    "firstNightReminder": "在首个夜晚你会得知2个号码牌中是否存在爪牙.",
+    "otherNight": 99,
+    "otherNightReminder": "从第二夜开始，你可以对身边4个身位格的存活玩家进行感应是否存在邪恶阵营",
     "reminders": ["Townsfolk",
         "Wrong"],
     "setup": false,
